@@ -1,1 +1,2 @@
 This is skatta file1
+Testing Merge Conflicts in Git hub
